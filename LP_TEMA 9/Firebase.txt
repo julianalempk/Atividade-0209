@@ -1,0 +1,15 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyAoz2GmRhIbT1DpdDDi_HkHr4QwaRhaakg",
+  authDomain: "lista-caf2b.firebaseapp.com",
+  projectId: "lista-caf2b",
+  storageBucket: "lista-caf2b.appspot.com",
+  messagingSenderId: "994739170416",
+  appId: "1:994739170416:web:d7a8f5ccf124b9ece618b5"
+};
+
+
+
+Firebase>criar novo projeto> nome "Autenticação"> desativar Google analitic> criar projeto> 
+"Seu projeto está concluído"> Continuar> Icone web </> codigo> registrar app> "Autenticação" > 
+registrar app> copiar as informações const> continuar no console> engrenagem "visão geral> botão criação> firestore database> botão criar banco de dados> local SP> proximo> marcar modo de teste> criar> +iniciar coleção> tarefas> código automatico> campo tarefa> strig> adicionar campo> usuarioID> string>salvar > criação>
+autenticação> firestore database> regras> 
